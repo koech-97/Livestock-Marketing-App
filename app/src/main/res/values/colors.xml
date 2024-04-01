@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="grey">#696969</color>
+    <color name="lightbit_blue">#0392D3</color>
+    <color name="double_light_blue">#7ABFDF</color>
+    <color name="de_active">#F47E7E</color>
+    <color name="red">#F61808</color>
+    <color name="brown">#964B00</color>
+    <color name="green">#008000</color>
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BANITA LIVESTOCK APP</string>
+    <string name="app_heading">BANITA LIVESTOCK APP</string>
+    <string name="our_motto">~ Welcome to Banita LiveStock APP - Connecting livestock buyers and sellers like never before ~</string>
+    <string name="register_check">Don\'t have an account?</string>
+    <string name="signin">Sign In</string>
+    <string name="login_now">Log In Now</string>
+    <string name="registernow">Register Now</string>
+    <string name="register">Register</string>
+    <string name="login_check">Already have an account?</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phoneno">Phone No</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="update">Update</string>
+    <string name="change_image">Change Image</string>
+    <string name="user">User</string>
+    <string name="seller">Seller</string>
+    <string name="post">Post</string>
+    <string name="add_post">Add Post</string>
+    <string name="update_post">Update Post</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">logout</string>
+</resources>
